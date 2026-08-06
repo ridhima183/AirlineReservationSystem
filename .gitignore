@@ -1,0 +1,75 @@
+# ============================================
+#  Java / Spring Boot (Maven) build artifacts
+# ============================================
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+replay_pid*
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# ============================================
+#  IDE / Editor configuration
+# ============================================
+META-INF/
+**/META-INF/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+*.launch
+.metadata/
+RemoteSystemsTempFiles/
+.classpath
+
+# ============================================
+#  Node / Angular frontend
+# ============================================
+node_modules/
+dist/
+.tmp/
+out-tsc/
+bazel-out/
+*.tsbuildinfo
+coverage/
+.angular/
+npm-debug.log*
+yarn-error.log*
+package-lock.json.tmp
+
+# ============================================
+#  Environment / secrets
+# ============================================
+.env
+.env.*
+*.local
+application-local.properties
+application-secret.properties
+
+# ============================================
+#  OS files
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+#  Misc
+# ============================================
+*.swp
+*.swo
+*~
+.DS_Store
