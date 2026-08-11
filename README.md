@@ -1,6 +1,6 @@
 # ✈️ Airline Reservation System
 
-A full-stack **Airline Ticket Reservation System** built with a **Spring Boot microservices** backend and an **Angular 17** single-page application frontend. The system supports user registration & authentication, flight search, ticket booking with seat selection, payment simulation, cancellation with refund logic, ticket enquiry, and an admin dashboard for managing flights.
+A full-stack **Airline Ticket Reservation System** built with a Spring Boot microservice backend and an **Angular 17** single-page application frontend. The system supports user registration & authentication, flight search, ticket booking with seat selection, payment simulation, cancellation with refund logic, ticket enquiry, and an admin dashboard for managing flights.
 
 ---
 
